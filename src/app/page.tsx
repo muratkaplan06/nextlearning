@@ -13,6 +13,9 @@ export default function Home() {
           priority
         />
         <div>Hello World</div>
+        <p>
+          Next.js gives you the best developer experience with all the features
+        </p>
         <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2">
             Get started by editing{" "}
